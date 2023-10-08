@@ -1,0 +1,16 @@
+DAMG_ID	Submitter 	Project Name	Sample Type	Extraction Date	DNA_Conc	DNA_Volume	Water_Volume
+DMG2302831	Prof. Oak	DAMGPR0166	Klebsiella pneumoniae	17/5/2023	4.08		
+DMG2302836	Prof. Oak	DAMGPR0166	Escherichia coli	17/5/2023	9.22		
+DMG2302837	Prof. Oak	DAMGPR0166	Escherichia coli	17/5/2023	19.1		
+DMG2302838	Prof. Oak	DAMGPR0166	Escherichia coli	17/5/2023	15.2		
+DMG2302840	Prof. Oak	DAMGPR0166	Escherichia coli	17/5/2023	7.14		
+DMG2302849	Prof. Oak	DAMGPR0166	Escherichia coli	17/5/2023	5.32		
+DMG2302865	Prof. Oak	DAMGPR0166	Escherichia coli	17/5/2023	12.3		
+DMG2302867	Prof. Oak	DAMGPR0166	Escherichia coli	17/5/2023	10.2		
+DMG2302871	Prof. Oak	DAMGPR0166	Escherichia coli	17/5/2023	5.06		
+DMG2302872	Prof. Oak	DAMGPR0166	Escherichia coli	17/5/2023	7.08		
+DMG2302874	Prof. Oak	DAMGPR0166	Escherichia coli	17/5/2023	7.12		
+DMG2302876	Prof. Oak	DAMGPR0166	Escherichia coli	17/5/2023	4		
+DMG2302877	Prof. Oak	DAMGPR0166	Escherichia coli	17/5/2023	6.98		
+DMG2302885	Prof. Oak	DAMGPR0166	Escherichia coli	17/5/2023	4.99		
+DMG2302889	Prof. Oak	DAMGPR0166	Escherichia coli	17/5/2023	4.98		
